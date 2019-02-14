@@ -17,7 +17,7 @@ setup(
                       'requests==2.21.0',
                       'lightgbm==2.2.3',
                       'pandas==0.24.1',
-                      'librosa==0.6.2',
+                      'librosa==0.6.3',
                       'numba',
                       'inflect',
                       'unidecode',
